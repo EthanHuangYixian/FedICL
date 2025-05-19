@@ -1,0 +1,11 @@
+{
+    "all": {
+        "rouge1": 0.355,
+        "rouge2": 0.182,
+        "rougeL": 0.337,
+        "bertscore_precision": 0.67,
+        "bertscore_recall": 0.717,
+        "bertscore_f1": 0.69,
+        "bleurt": 0.565
+    }
+}

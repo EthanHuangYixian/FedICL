@@ -1,0 +1,9 @@
+The detox score in am is: 0.7900352940161247
+The detox score in ar is: 0.9250877058831974
+The detox score in de is: 0.9378991626575589
+The detox score in origin is: 0.1415706186881289
+The detox score in es is: 0.9482735939649864
+The detox score in hi is: 0.8310286821925547
+The detox score in ru is: 0.9222569633321837
+The detox score in uk is: 0.9291347138863056
+The detox score in zh is: 0.9373307494586334

@@ -1,0 +1,3 @@
+
+The formality score of origin in es language setting is: 0.7469048365866804
+The formality score of icl in es language setting is: 0.9541313893110083

@@ -1,0 +1,7 @@
+        rouge1 -> 0.356
+        rouge2 -> 0.185
+        rougeL -> 0.338
+        bertscore_precision -> 0.654
+        bertscore_recall -> 0.711
+        bertscore_f1 -> 0.677
+        bleurt -> 0.56

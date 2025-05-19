@@ -1,0 +1,2 @@
+The formality score of origin in hi language setting is: 0.7469048365866804
+The formality score of icl in hi language setting is: 0.9509352818686734

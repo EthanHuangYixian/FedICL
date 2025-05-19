@@ -1,0 +1,4 @@
+The formality score of origin in ja language setting is: 0.7469048365866804
+The formality score of icl in ja language setting is: 0.7830949202433197
+The formality score of origin in ja language setting is: 0.7469048365866804
+The formality score of icl in ja language setting is: 0.7830949202433197
